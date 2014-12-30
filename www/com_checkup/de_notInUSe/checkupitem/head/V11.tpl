@@ -1,1 +1,0 @@
-Impfung Kinderlähmung (Poliomyelitis)

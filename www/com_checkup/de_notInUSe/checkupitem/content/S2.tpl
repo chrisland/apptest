@@ -1,4 +1,0 @@
-<div class="">
-<h1>2. Vorsorgeuntersuchung</h1><br/>
-<span class="content-text">9.- 12. Schwangerschaftswoche<br/>  <table>   <tr><td valign="top">•</td><td>Blutdruckmessung</td></tr>   <tr><td valign="top">•</td><td>Gewichtskontrolle</td></tr>   <tr><td valign="top">•</td><td>Überprüfung des Urins auf Eiweiß, Zucker und Sediment</td></tr>   <tr><td valign="top">•</td><td>Gynäkologische Untersuchung (Stand der Gebärmutter, Überprüfung der kindlichen Herzaktion und Lage des Kindes)</td></tr>  </table>  Die erste Ultraschalluntersuchung wird durchgeführt. Sie dient der genauen Bestimmung des Gestationsalters, der Kontrolle der Entwicklung des Ungeborenen sowie der Suche nach Auffälligkeiten und dem Erkennen einer Mehrlingsschwangerschaft.</span>
-</div>

@@ -1,1 +1,0 @@
-1. Woche nach der Geburt

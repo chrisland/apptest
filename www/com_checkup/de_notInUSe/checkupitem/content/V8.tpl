@@ -1,4 +1,0 @@
-<div class="">
-<h1>Mumps (Ziegenpeter)</h1><br/>
-<span class="content-text"> <table>   <tr><td valign="top">•</td><td>Erste Impfung im Alter zwischen dem 11. bis 14. Lebensmonat</td></tr>   <tr><td valign="top">•</td><td>Zweite Impfung vor Ende des 2. Lebensjahres</td></tr>   <tr><td>&nbsp</td></tr>   <tr><td valign="top">•</td><td><h1>Symptome bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Grippeähnliche Beschwerden, ein- oder beidseitige Schwellung der Ohrspeicheldrüsen</td></tr>   <tr><td valign="top">•</td><td><h1>Gefahr bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>u.a. Hirnhautentzündung, Entzündung weiterer Organe, bei Jungen Hodenentzündung, die zu Unfruchtbarkeit führen kann</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>Tröpfcheninfektion, z.B. durch Husten oder Niesen</td></tr>  </table></span>
-</div>

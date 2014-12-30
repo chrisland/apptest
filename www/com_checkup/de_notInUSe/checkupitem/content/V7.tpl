@@ -1,4 +1,0 @@
-<div class="">
-<h1>Meningokokken</h1><br/>
-<span class="content-text">  <table>   <tr><td valign="top">•</td><td>Immunisierung im 2. Lebensjahr</td></tr>   <tr><td>&nbsp</td></tr>   <tr><td valign="top">•</td><td><h1>Symptome bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Hohes Fieber, Kopfschmerzen und Nackensteifheit</td></tr>   <tr><td valign="top">•</td><td><h1>Gefahr bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Hirnhautentzündung (Meningitis), die je nach Schweregrad tödlich verlaufen oder zu Lähmungen oder geistiger Behinderungen führen kann</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>Tröpfcheninfektion z.B. Husten oder Niesen</td></tr>  </table></span>
-</div>

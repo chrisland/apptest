@@ -1,1 +1,0 @@
-Impfung Pneumokokken (Lungenentz.)

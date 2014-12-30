@@ -1,4 +1,0 @@
-<div class="">
-<h1>Kinderlähmung (Poliomyelitis)</h1><br/>
-<span class="content-text"> <table>   <tr><td valign="top">•</td><td>Im Alter von 2, 3 und 4 Lebensmonaten sowie zwischen dem 11. - 14. Lebensmonat</td></tr>   <tr><td valign="top">•</td><td>Auffrischimpfung im Alter von 9 - 17 Lebensjahren</td></tr>   <tr><td>&nbsp</td></tr>   <tr><td valign="top">•</td><td><h1>Gefahr bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Nervenlähmungen, die mit einer Bewegungsunfähigkeit einhergehen und bis zum Tod durch Atemlähmung führen können</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>die Viren können fäkal- oral übertragen werden, d.h. mit dem Stuhl eines Menschen ausgeschieden und über den Mund eines anderen aufgenommen</td></tr>  </table></span>
-</div>

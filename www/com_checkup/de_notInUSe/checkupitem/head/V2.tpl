@@ -1,1 +1,0 @@
-Impfung Haemophilus influenzae (Typ b) 

@@ -1,4 +1,0 @@
-<div class="">
-<h1>Masern</h1><br/>
-<span class="content-text"><table>   <tr><td valign="top">•</td><td>Erste Impfung im Alter zwischen dem 11. bis 14. Lebensmonat</td></tr>   <tr><td valign="top">•</td><td>Zweite Impfung vor Ende des 2. Lebensjahres</td></tr>   <tr><td>&nbsp</td></tr>   <tr><td valign="top">•</td><td><h1>Symptome bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Hohes Fieber, u.a. Erkältungsbeschwerden, Bindehautentzündung und typischer Hautausschlag</td></tr>   <tr><td valign="top">•</td><td><h1>Gefahr bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Lungen- oder Mittelohrentzündungen sowie lebensbedrohliche Gehirnentzündung</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>Tröpfcheninfektion, z.B. durch Husten und Niesen</td></tr>  </table></span>
-</div>
