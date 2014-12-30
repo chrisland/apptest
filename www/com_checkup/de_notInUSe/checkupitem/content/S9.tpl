@@ -1,0 +1,4 @@
+<div class="">
+<h1>9. Vorsorgeuntersuchung</h1><br/>
+<span class="content-text">37.- 40. Schwangerschaftswoche<br/>  <table>   <tr><td valign="top">•</td><td>Blutdruckmessung</td></tr>   <tr><td valign="top">•</td><td>Gewichtskontrolle</td></tr>   <tr><td valign="top">•</td><td>Überprüfung des Urins auf Eiweiß, Zucker und Sediment</td></tr>   <tr><td valign="top">•</td><td>Gynäkologische Untersuchung (Stand der Gebärmutter, Überprüfung der kindlichen Herzaktion und Lage des Kindes)</td></tr>   <tr><td valign="top">•</td><td>Sollte der errechnete Geburtstermin überschritten werden, wird der Arzt Sie in kürzeren Abständen sehen wollen.</td></tr>  </table></span>
+</div>

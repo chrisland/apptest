@@ -1,0 +1,4 @@
+<div class="">
+<h1>Haemophilus influenzae Typ b (Hib)</h1><br/>
+<span class="content-text">  <table>   <tr><td valign="top">•</td><td>Impfungen im Alter von 2, 3 und 4 Lebensmonaten sowie zwischen dem 11. - 14. Lebensmonat</td></tr>   <tr><td>&nbsp</td></tr>   <tr><td valign="top">•</td><td><h1>Symptome bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Hals- und Kopfschmerzen, Fieber und Atemnot</td></tr>   <tr><td valign="top">•</td><td><h1>Gefahr bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>lebensbedrohliche Entzündungen an Gehirn und Kehlkopf</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>Tröpfcheninfektion, z.B. Husten und Niesen</td></tr>  </table></span>
+</div>

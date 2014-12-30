@@ -1,0 +1,4 @@
+<div class="">
+<h1>Kinder bis 6 Jahre</h1><br/>
+<span class="content-text">Bereits bei den ganz Kleinen sind regelmäßige Kontrollen der Zähne wichtig. Daher stehen Kindern bis 6 Jahren 3 kostenfreie Früherkennungsuntersuchungen zu.<br/><br/>  <table>   <tr><td valign="top">•</td><td>FU1 im 3. Lebensjahr</td></tr>   <tr><td valign="top">•</td><td>FU2 12 Monate nach der ersten Untersuchung</td></tr>   <tr><td valign="top">•</td><td>FU3 frühestens 12 Monate nach der ersten Untersuchung und bis Vollendung des 6. Lebensjahres</td></tr>  </table>  <br/>  Bei den zahnärztlichen Untersuchungen wird die Mundhöhle der Kinder beurteilt und eine Einschätzung des Kariesrisikos vorgenommen. Die Eltern werden zu den Themen „Mundhygiene“ und „Ernährung“ beraten. Weiterhin werden Empfehlungen zu geeigneten Fluoridierungsmitteln zur Zahnschmelzhärtung gegeben.</span>
+</div>

@@ -1,0 +1,4 @@
+<div class="">
+<h1>7. Vorsorgeuntersuchung</h1><br/>
+<span class="content-text">29.- 32. Schwangerschaftswoche<br/>  <table>   <tr><td valign="top">•</td><td>Blutdruckmessung</td></tr>   <tr><td valign="top">•</td><td>Gewichtskontrolle</td></tr>   <tr><td valign="top">•</td><td>Überprüfung des Urins auf Eiweiß, Zucker und Sediment</td></tr>   <tr><td valign="top">•</td><td>Gynäkologische Untersuchung (Stand der Gebärmutter, Überprüfung der kindlichen Herzaktion und Lage des Kindes)</td></tr>   <tr><td valign="top">•</td><td>Die dritte Ultraschalluntersuchung findet statt. Ab jetzt erfolgen die Vorsorgebehandlungen alle 14 Tage.</td></tr>  </table></span>
+</div>

@@ -1,0 +1,135 @@
+.cldatepick_wrap {
+  width: 100%;
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  text-align: center;
+  z-index: 9999999999;
+}
+
+.cldatepick_box:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.cldatepick_box {
+  width: 80%;
+  vertical-align: middle;
+  display: inline-block;
+  height: 40%;
+}
+
+.cldatepick_item {
+  display: inline-block;
+  text-align: center;
+  height: 100%;
+}
+
+.cldatepick_item_main {
+     height: 40%;
+
+    font-size: 160%;
+    font-weight: 100;
+    vertical-align: middle;
+     display: inline-block;
+}
+
+.cldatepick_item_main:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+
+
+.cldatepick_item_up,
+.cldatepick_item_down {
+  cursor: pointer;
+  height: 30%;
+  background-size: auto 60%;
+  background-repeat: no-repeat;
+  
+}
+
+.cldatepick_item_up {
+  background-image: url('up.svg');
+  background-position: center center;
+}
+
+.cldatepick_item_down {
+  background-image: url('down.svg');
+  background-position: center center;
+}
+
+
+.cldatepick_item_sep {
+  width: 5%;
+  display: inline-block;
+  min-width: 5%;
+  display: block;
+}
+
+.cldatepick_box_picker {
+  height: 80%;
+  background: linear-gradient(#efefef 0%, #c5c5c5 100%);
+}
+
+.cldatepick_box_tools {
+  height: 20%;
+  background: linear-gradient(#efefef 0%, #c5c5c5 100%);
+   box-shadow: 0px -2px 10px -2px #9a9a9a;
+   font-size: 120%;
+
+}
+
+.cldatepick_box_tools_kill {
+  width: 40%;
+  height: 100%;
+
+  display: inline-block;
+  
+
+  vertical-align: middle;
+  display: inline-block;
+  
+}
+
+.cldatepick_box_tools_kill:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+
+.cldatepick_box_tools_submit {
+  width: 60%;
+  height: 100%;
+  display: inline-block;
+vertical-align: middle;
+    box-shadow: -2px 0px 3px -2px #9a9a9a;
+}
+
+.cldatepick_box_tools_submit:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+
+.cldatepick_item_main_input {
+	width: 100%;
+	text-align: center;
+	font-size: 120%;
+}
+
+
+
+
+

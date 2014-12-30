@@ -1,0 +1,4 @@
+<div class="">
+<h1>Krebs Prostata und äußeres Genital</h1><br/>
+<span class="content-text">Ab 45 Jahren haben Sie jährlich einen Anspruch auf eine Früherkennungsuntersuchung auf Krebserkrankungen der Prostata und des äußeren Genitals. <br/>Bei dieser Untersuchung wird zunächst die medizinische Vorgeschichte (Anamnese) erhoben. Die äußeren Geschlechtsorgane einschließlich der entsprechenden Hautbereiche werden inspiziert und abgetastet. Außerdem werden die Prostata (durch den Enddarm) sowie örtliche Lymphknoten abgetastet. Zu den Ergebnissen der Untersuchung wird eine Beratung durchgeführt.</span>
+</div>

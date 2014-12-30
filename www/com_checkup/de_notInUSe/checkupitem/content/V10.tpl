@@ -1,0 +1,4 @@
+<div class="">
+<h1>Pneumokokken (Lungenentzündung)</h1><br/>
+<span class="content-text">  <table>   <tr><td valign="top">•</td><td>Im Alter von 2, 3 und 4 Lebensmonaten sowie zwischen dem 11. - 14. Lebensmonat</td></tr>   <tr><td valign="top">•</td><td>Personen über 60 Jahre einmalige Impfung</td></tr>   <tr><td valign="top">•</td><td>Indikationsimpfung alle 5 Jahre im Rahmen bestimmter Erkrankungen (z.B. bei Immundefekten)</td></tr>   <tr><td>&nbsp</td></tr>   <tr><td valign="top">•</td><td><h1>Gefahr bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>Pneumokokken können zu schweren Erkrankungen führen, wie z.B. Lungen-, Mittelohr-, oder Hirnhautentzündungen</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>Tröpfcheninfektion z.B. Husten oder Niesen</td></tr>  </table></span>
+</div>

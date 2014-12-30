@@ -1,0 +1,4 @@
+<div class="">
+<h1>8. Vorsorgeuntersuchung</h1><br/>
+<span class="content-text">33.- 36. Schwangerschaftswoche<br/>  <table>   <tr><td valign="top">•</td><td>Blutdruckmessung</td></tr>   <tr><td valign="top">•</td><td>Gewichtskontrolle</td></tr>   <tr><td valign="top">•</td><td>Überprüfung des Urins auf Eiweiß, Zucker und Sediment</td></tr>   <tr><td valign="top">•</td><td>Gynäkologische Untersuchung (Stand der Gebärmutter, Überprüfung der kindlichen Herzaktion und Lage des Kindes)</td></tr>   <tr><td valign="top">•</td><td>Nach der 32. Schwangerschaftswoche wird das Blut auf Hepatitisantikörper (Hepatitis= Leberentzündung) untersucht. Die Untersuchung ist nicht notwendig, wenn gegen Hepatitis B geimpft wurde und ein ausreichender Schutz vorhanden ist.</td></tr>  </table></span>
+</div>

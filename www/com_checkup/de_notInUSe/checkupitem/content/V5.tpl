@@ -1,0 +1,4 @@
+<div class="">
+<h1>Influenza</h1><br/>
+<span class="content-text">Jährliche Grippeschutzimpfung für Personen ab 60 Jahren und gefährdete Personen, z.B. Erwachsene und Kinder mit chronischen Erkrankungen<br/><br/>  <table>   <tr><td valign="top">•</td><td><h1>Schutz</h1> für Ältere und chronisch Kranke vor kompliziertem Grippeverlauf</td></tr>   <tr><td valign="top">•</td><td><h1>Symptome bei einer Erkrankung: </h1></td></tr>   <tr><td valign="top"></td><td>hohes Fieber, Husten, starke Kopf- und Gliederschmerzen</td></tr>   <tr><td valign="top">•</td><td><h1>Übertragungswege: </h1></td></tr>   <tr><td valign="top"></td><td>Tröpfcheninfektion, z.B. Husten oder Niesen</td></tr>  </table></span>
+</div>

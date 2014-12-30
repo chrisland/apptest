@@ -1,0 +1,4 @@
+<div class="">
+<h1>Darmkrebs ab 55 Jahren</h1><br/>
+<span class="content-text">Ab 55 Jahren sollte im Rahmen der Früherkennungsuntersuchung auf Darmkrebs ein zweites Beratungsgespräch stattfinden. Dabei werden u.a. Informationen über das Krankheitsbild, Häufigkeit, sowie Sinn und Zweck der Früherkennungsuntersuchungen vermittelt. <br/>Es besteht die Möglichkeit, insgesamt 2 Darmspiegelungen (Koloskopien) zur Früherkennung durchzuführen. Die 2. Darmspiegelung kann frühestens 10 Jahre nach der ersten in Anspruch genommen werden. Wird keine Darmspiegelung oder nach 10 Jahren keine erneute Spiegelung vorgenommen, kann alternativ die Testung auf nicht sichtbares Blut im Stuhl alle 2 Jahre erfolgen.</span>
+</div>
