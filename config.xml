@@ -27,6 +27,12 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
 
+
+	<preference name="EnableViewportScale" value="true"/>
+	<preference name="MediaPlaybackRequiresUserAction" value="true"/>
+	<preference name="AllowInlineMediaPlayback" value="true"/>
+	
+	
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.file"/>
 	<gap:plugin name="org.apache.cordova.media"  />

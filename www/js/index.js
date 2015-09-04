@@ -45,6 +45,7 @@ var app = {
 
 		
 
+/*
 		var src = "http://www.h-sechs.de/aok-entspannung/lessons/3/v3.mp4";
 		var onSuccess = function () {
 			jQuery('body').prepend('- DONE !!!!!');
@@ -56,6 +57,7 @@ var app = {
 		
 		my_media.play();
 		
+*/
 		
     },
     // Update DOM on a Received Event
