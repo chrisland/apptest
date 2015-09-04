@@ -27,11 +27,11 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
 
-    <gap:plugin name="org.apache.cordova.device" />
+    
 
 	
 	<gap:plugin name="com.jaeger.html5video" />
-	
+	<gap:plugin name="org.apache.cordova.device" />
 	
     <icon src="icon.png" />
 
