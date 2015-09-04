@@ -34,7 +34,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
 	    
-	    $('meta[name=viewport]').attr('content','user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height='+window.innerHeight+'px,  target-densitydpi=medium-dpi');
+	    jQuery('meta[name=viewport]').attr('content','user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height='+window.innerHeight+'px,  target-densitydpi=medium-dpi');
         
         
         
