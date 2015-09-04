@@ -65,6 +65,18 @@ var app = {
 		
 */
 		
+		
+		
+		
+			
+	   var video = document.getElementById('video');
+	   video.addEventListener('click',function(){
+	      video.play();
+	   },false);
+	
+
+		
+		
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
