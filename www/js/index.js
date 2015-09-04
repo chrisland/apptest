@@ -44,13 +44,19 @@ var app = {
                             'Device Version: '  + device.version  + '<br />';
 
 		
-	
-		window.plugins.html5Video.initialize({
-		      "video1" : "http://www.h-sechs.de/aok-entspannung/lessons/3/v3.mp4"
-		  });
-		window.plugins.html5Video.play("video1")  
-		  
 
+		var src = "http://www.h-sechs.de/aok-entspannung/lessons/3/v3.mp4";
+		var onSuccess = function () {
+			jQuery('body').prepend('- DONE !!!!!');
+		};
+		var onError = function () {
+			jQuery('body').prepend('- ERROR !!!!!');
+		};
+		var my_media = new Media(src, onSuccess, onError);
+		
+		my_media.play();
+		
+		
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
