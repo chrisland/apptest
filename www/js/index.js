@@ -45,7 +45,7 @@ var app = {
 
 		
 		
-		VideoPlayer.play(""http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v");
+		VideoPlayer.play("http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v");
 		
 		
 
