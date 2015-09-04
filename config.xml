@@ -34,11 +34,7 @@
 	
 	
     <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.file"/>
-	<gap:plugin name="org.apache.cordova.media"  />
-	
 
-	
     <icon src="icon.png" />
 
     <access origin="*" />

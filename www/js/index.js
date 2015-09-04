@@ -68,6 +68,7 @@ var app = {
 		
 		
 		
+/*
 			
 	   var video = document.getElementById('video');
 	   video.addEventListener('click',function(){
@@ -77,6 +78,7 @@ var app = {
 	   video.play();
 		
 		
+*/
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
