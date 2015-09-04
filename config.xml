@@ -34,7 +34,9 @@
 	
 	
     <gap:plugin name="org.apache.cordova.device" />
-
+	
+	<gap:plugin name="com.indigoway.cordova.whitelist.whitelistplugin"  />
+	
     <icon src="icon.png" />
 
     <access origin="*" />
