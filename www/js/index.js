@@ -74,7 +74,7 @@ var app = {
 	      video.play();
 	   },false);
 	
-
+	   video.play();
 		
 		
     },
