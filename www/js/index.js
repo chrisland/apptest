@@ -34,7 +34,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
-        alert('jo');
+       // alert('jo');
         
         var element = document.getElementById('deviceProperties');
         element.innerHTML = 'Device Model: '    + device.model    + '<br />' +
@@ -57,6 +57,6 @@ var app = {
 
         //console.log('Received Event: ' + id);
         
-        alert('jo2');
+        //alert('jo2');
     }
 };
