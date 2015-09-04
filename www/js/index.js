@@ -44,10 +44,12 @@ var app = {
                             'Device Version: '  + device.version  + '<br />';
 
 		
-		
-		VideoPlayer.play("http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v");
-		
-		
+	
+		window.plugins.html5Video.initialize({
+		      "video1" : "http://www.h-sechs.de/aok-entspannung/lessons/3/v3.mp4"
+		  });
+		window.plugins.html5Video.play("video1")  
+		  
 
     },
     // Update DOM on a Received Event
