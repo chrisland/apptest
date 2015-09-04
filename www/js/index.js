@@ -43,7 +43,11 @@ var app = {
                             'Device UUID: '     + device.uuid     + '<br />' +
                             'Device Version: '  + device.version  + '<br />';
 
-
+		
+		
+		VideoPlayer.play(""http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v");
+		
+		
 
     },
     // Update DOM on a Received Event
